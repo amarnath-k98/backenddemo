@@ -1,7 +1,5 @@
 import mongoose from "mongoose";
 
-// const mongodbURI =
-//   "mongodb+srv://amarmagesh717_db_user:lCFvqhQwfhxupQOC@backdendemo.fprfol6.mongodb.net/SampleDB?retryWrites=true&w=majority&appName=backdendemo";
 
 const mongodbURI =
   "mongodb+srv://amarmagesh717_db_user:z3GSbmt0jNqsJiou@backenddemo.s4olsp8.mongodb.net/SampleDB?retryWrites=true&w=majority&appName=backenddemo";
