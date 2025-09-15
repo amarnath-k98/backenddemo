@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 
 const mongodbURI =
-  "mongodb+srv://amarmagesh717_db_user:z3GSbmt0jNqsJiou@backenddemo.s4olsp8.mongodb.net/SampleDb?retryWrites=true&w=majority&appName=backenddemo";
+  "mongodb+srv://amarmagesh717_db_user:z3GSbmt0jNqsJiou@backenddemo.s4olsp8.mongodb.net/Sample?retryWrites=true&w=majority&appName=backenddemo";
 
 
 const connectDB = () => {
